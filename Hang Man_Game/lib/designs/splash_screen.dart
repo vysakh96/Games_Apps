@@ -25,7 +25,6 @@ class _Splash_screenState extends State<Splash_screen> {
             image: AssetImage('images/hangman.png'),
             fit: BoxFit.fill,
           )),
-          // child: Image(image: AssetImage('images/hangman.png'),)),
         ),
       ),
     );
